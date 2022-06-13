@@ -1,0 +1,40 @@
+{
+  "employeeDetails": [
+    {
+      "name": "SREEJITH S KUMAR",
+      "age": "26",
+      "address": "PUTHENKANDATHIL, PULICKAL KAVALA P O",
+      "department": "operations",
+      "salary": "50000",
+      "martialState": true,
+      "id": 1
+    },
+    {
+      "name": "Rahul",
+      "age": "26",
+      "address": "Flat no: 12 B",
+      "department": "operations",
+      "salary": "50000",
+      "martialState": true,
+      "id": 2
+    },
+    {
+      "name": "Suraj",
+      "age": "26",
+      "address": "Flat 30 B",
+      "department": "operations",
+      "salary": "90000",
+      "martialState": false,
+      "id": 3
+    },
+    {
+      "name": "Tona",
+      "age": "26",
+      "address": "Kanjirapally",
+      "department": "",
+      "salary": "100000",
+      "martialState": true,
+      "id": 4
+    }
+  ]
+}
